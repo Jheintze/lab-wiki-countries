@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import CountriesList from "./components/CountriesList";
  import CountryDetails from "./components/CountryDetails";
-import Navbar from "./components/Navbar";
+ import Navbar from "./components/Navbar";
 // import countries from './countries.json';
 
 function App() {
